@@ -1,2 +1,2 @@
 # testrepo
-first repository
+Paragon z warzywniaka
